@@ -7,6 +7,13 @@ class Program
     {
         SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract - AISYAH");
         video.PrintVideoDetails();
+
+        for (int i = 0; i < 10; i++)
+        {
+            video.IncreasePlayCount(1000000);
+        }
+
+        video.PrintVideoDetails();
     }
 }
 

@@ -1,0 +1,15 @@
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\bin\Debug\net8.0\tpmodul6_103022300116.exe
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\bin\Debug\net8.0\tpmodul6_103022300116.deps.json
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\bin\Debug\net8.0\tpmodul6_103022300116.runtimeconfig.json
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\bin\Debug\net8.0\tpmodul6_103022300116.dll
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\bin\Debug\net8.0\tpmodul6_103022300116.pdb
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\tpmodul6_103022300116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\tpmodul6_103022300116.AssemblyInfoInputs.cache
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\tpmodul6_103022300116.AssemblyInfo.cs
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\tpmodul6_103022300116.csproj.CoreCompileInputs.cache
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\tpmodul6_103022300116.sourcelink.json
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\tpmodul6_103022300116.dll
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\refint\tpmodul6_103022300116.dll
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\tpmodul6_103022300116.pdb
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\tpmodul6_103022300116.genruntimeconfig.cache
+C:\Users\aaiis\source\repos\tpmodul6_103022300116\obj\Debug\net8.0\ref\tpmodul6_103022300116.dll
